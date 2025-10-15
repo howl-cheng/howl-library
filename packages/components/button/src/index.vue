@@ -2,7 +2,10 @@
   <button class="jkc-button">这是一个button按钮</button>
 </template>
 
-<script setup name="jkc-button">
+<script>
+export default {
+  name: 'jkc-button'
+}
 </script>
 
 <style>

@@ -6,15 +6,6 @@ settings:
 
 importers:
 
-  .:
-    dependencies:
-      '@jikaicheng/components':
-        specifier: workspace:^1.0.0
-        version: link:packages/components
-      '@jikaicheng/utils':
-        specifier: workspace:^1.0.0
-        version: link:packages/utils
-
   examples:
     dependencies:
       vue:

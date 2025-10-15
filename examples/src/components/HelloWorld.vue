@@ -1,10 +1,10 @@
 <template>
-  <hny-button></hny-button>
-  <hny-header></hny-header>
+  <div>
+    <jkc-button></jkc-button>
+    <jkc-header></jkc-header>
+  </div>
 </template>
-
 <script setup>
-import { HnyButton, HnyHeader } from '@hny/components'
 </script>
 
 <style></style>

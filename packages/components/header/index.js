@@ -1,4 +1,4 @@
-import { withInstall } from "@hny/utils"
+import { withInstall } from "@jikaicheng/utils"
 import Header from "./src/index.vue"
 
 const HnyHeader = withInstall(Header)
